@@ -1,0 +1,84 @@
+Nome: Pessoa 1
+RG: 11111
+---------- OK
+Nome: 
+RG: 
+---------- OK
+Nome: Pessoa 2
+RG: 
+---------- OK
+Nome: Pessoa 2
+RG: 22222
+---------- OK
+Nome: Aluno 3
+RG: 33333
+Matricula: 00001-1
+Ano de Ingresso: 2013
+---------- OK
+Nome: 
+RG: 
+Matricula: 
+Ano de Ingresso: 0
+---------- OK
+Nome: Aluno 4
+RG: 
+Matricula: 
+Ano de Ingresso: 0
+---------- OK
+Nome: Aluno 4
+RG: 44444
+Matricula: 
+Ano de Ingresso: 0
+---------- OK
+Nome: Aluno 4
+RG: 44444
+Matricula: 00002-2
+Ano de Ingresso: 0
+---------- OK
+Nome: Aluno 4
+RG: 44444
+Matricula: 00002-2
+Ano de Ingresso: 2014
+---------- OK
+Nome: Professor 5
+RG: 55555
+Unidade: EP
+Ano de Ingresso: 2015
+Salario Fixo: 5555.5500
+---------- OK
+Nome: 
+RG: 
+Unidade: 
+Ano de Ingresso: 0
+Salario Fixo: 0.0000
+---------- OK
+Nome: Professor 6
+RG: 
+Unidade: 
+Ano de Ingresso: 0
+Salario Fixo: 0.0000
+---------- OK
+Nome: Professor 6
+RG: 66666
+Unidade: 
+Ano de Ingresso: 0
+Salario Fixo: 0.0000
+---------- OK
+Nome: Professor 6
+RG: 66666
+Unidade: EN
+Ano de Ingresso: 0
+Salario Fixo: 0.0000
+---------- OK
+Nome: Professor 6
+RG: 66666
+Unidade: EN
+Ano de Ingresso: 2016
+Salario Fixo: 0.0000
+---------- OK
+Nome: Professor 6
+RG: 66666
+Unidade: EN
+Ano de Ingresso: 2016
+Salario Fixo: 6666.6600
+---------- OK
